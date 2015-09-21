@@ -1,2 +1,2 @@
-Testing
+Testing Git and GitHub
 
